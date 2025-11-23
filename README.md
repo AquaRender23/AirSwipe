@@ -1,6 +1,6 @@
-# Frame Freeze
+# AirSwipe
 
-Frame Freeze is a gesture-controlled game platform utilizing MediaPipe Hands and TensorFlow.js for real-time hand gesture recognition. The project includes various interactive mini-games like Car Racing, Table Tennis, Rock-Paper-Scissors, Sudoku, and more, controlled through hand gestures captured via webcam.
+AirSwipe is a gesture-controlled game platform utilizing MediaPipe Hands and TensorFlow.js for real-time hand gesture recognition. The project includes various interactive mini-games like Car Racing, Table Tennis, Rock-Paper-Scissors, Sudoku, and more, controlled through hand gestures captured via webcam.
 
 ## Features
 
